@@ -38,7 +38,7 @@ A Windows Forms application that enables dynamic keyboard and mouse hotkey assig
 **Mohtasim Billah Jitu**  
 CEO & Founder, REDX-CORPORATION  
 [GitHub Profile](https://github.com/REDX-CORPORATION)  
-[INSTAGRAM](https://www.instagram.com/mohtasimjitu/))
+[INSTAGRAM](https://www.instagram.com/mohtasimjitu/)
 
 ---
 
