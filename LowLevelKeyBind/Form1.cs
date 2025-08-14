@@ -194,14 +194,14 @@ namespace LowLevelKeyBind
                 if (key == Keys.F6)
                 {
                     if (guna2Button5.InvokeRequired)
-                        guna2Button5.Invoke((MethodInvoker)(() => guna2Button1.PerformClick()));
+                        guna2Button5.Invoke((MethodInvoker)(() => guna2Button5.PerformClick()));
                     else
                         guna2Button5.PerformClick();
                 }
                 else if (key == Keys.F7)
                 {
                     if (guna2Button6.InvokeRequired)
-                        guna2Button6.Invoke((MethodInvoker)(() => guna2Button2.PerformClick()));
+                        guna2Button6.Invoke((MethodInvoker)(() => guna2Button6.PerformClick()));
                     else
                         guna2Button6.PerformClick();
                 }
